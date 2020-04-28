@@ -30,7 +30,7 @@ All resources used in this project are free-of-charge. You can upgrade them post
 ## Getting Started
 #### Method 1: One-Click-Deployment (suggested for evaluation)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/sarveshwarge/wordpress-heroku-1)
 
 Using this button you can deploy a new instance of WordPress.
 
